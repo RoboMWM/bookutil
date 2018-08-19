@@ -12,7 +12,7 @@ import javax.annotation.Nonnull;
 
 public class BookUtil {
 
-    private static final String BOOK_CHANNEL = "MC|BOpen";
+    private static final String BOOK_CHANNEL = "minecraft:book_open";
     private Method addChannelMethod = null;
     private Plugin plugin;
 
